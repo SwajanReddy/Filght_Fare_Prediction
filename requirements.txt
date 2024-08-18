@@ -1,6 +1,6 @@
 pandas
 numpy
-scikit
+scikit-learn
 matplotlib
 flask
 flask_cors
