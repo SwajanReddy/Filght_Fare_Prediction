@@ -1,22 +1,6 @@
-Certainly! Below is a template for a `README.md` file tailored for your flight fare prediction project using Flask.
-
----
-
 # Flight Fare Prediction
 
 This project is a web application that predicts flight fares based on user inputs such as departure time, arrival time, source, destination, airline, and the number of stops. The prediction is made using a trained machine learning model.
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Model Information](#model-information)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -44,7 +28,7 @@ This Flask-based web application allows users to input flight details and receiv
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/flight-fare-prediction.git
+   git clone https://github.com/swajanreddy/flight-fare-prediction.git
    cd flight-fare-prediction
    ```
 
@@ -105,14 +89,7 @@ This Flask-based web application allows users to input flight details and receiv
 
 The machine learning model used in this project is a Random Forest Regressor trained on historical flight data. The model considers features like the number of stops, departure and arrival times, source, destination, and the airline to predict the flight fare.
 
-## Contributing
+## Credits
+Project replicated from https://www.youtube.com/watch?v=y4EMEpEnElQ
 
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this `README.md` file according to your project needs. The instructions for installation, usage, and other details can be modified as per your setup and additional features.
